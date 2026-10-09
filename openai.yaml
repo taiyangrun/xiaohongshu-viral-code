@@ -1,0 +1,7 @@
+interface:
+  display_name: "小红书流量密码"
+  short_description: "诊断改写小红书文案，给视频提修改建议"
+  default_prompt: "使用 $xiaohongshu-viral-code 诊断这篇小红书文案/视频，给出改写和修改建议。"
+
+policy:
+  allow_implicit_invocation: true
