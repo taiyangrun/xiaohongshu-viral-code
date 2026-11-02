@@ -1,1 +1,30 @@
-IyDlsI/nuqLkuabmtYHph4/lr4bnoIEgKGB4aWFvaG9uZ3NodS12aXJhbC1jb2RlYCkgdjEuMy4wCgo+IOWwj+e6ouS5puWPkeS6huayoea1gemHj++8nzE0IOS4quW3peS9nOa1geimhuebluWGmeKGkuafpeKGkuWPkeKGkuWkjeebmOKGkuWFu+WPt+WFqOmTvui3r++8jOiuqeavj+S4gOevh+mDveWQg+WIsOa1gemHj+e6ouWIqe+8jOi/mOS/neeVmeS9oOiHquW3seeahOmjjuagvOOAguiNieeov+i/m+adpe+8jOWPr+WPkeaWueahiOWHuuWOu+OAggoKIyMg5pu05paw5pel5b+XCgotIHYxLjMuMO+8iDIwMjYtMTAtMjLvvInvvJrmraPmlofmlrDlop4i5Li65pS26JeP6ICM5YaZIuS4ieWKqOS9nO+8iOe7k+iuuuWJjee9ruKGkuS4reautee7meiDveaLv+i1sOeahOS4nOilv+KGkue7k+WwvuWRiuivieivu+iAheWtmOS4i+adpeW5suS7gOS5iO+8ie+8m+WOuyBBSSDlkbPmlrDlop7mqKHmi5/or7vogIXor5Xor7vpqozmlLbvvIznu5nkurrlkbPliIbjgIHlrprkvY3mrovnlZnmqKHmnb/lkbPlubbnu5ki5Y+v5Y+RL+WGjeaUueS4gOi9riLnu5PorrrjgIIKLSB2MS4yLjDvvIgyMDI2LTEwLTE177yJ77ya5paw5aKeIEZBUSDnrZTnlpHjgIHlrozmlbTor4rmlq3liY3lkI7lr7nnhafnpLrkvovjgIHnm67lvZXlr7zoiKrvvJvlj5HluIPliY3kvZPmo4DliqAi5pat6KiA6aqM6K+B5Y+w6LSmIu+8m+aooeadv+WMlueXlei/ueajgOafpeWNh+e6p++8iOaWsOWiniLnu5XlnIjor50i5qOA5rWL77yJ77yb5pWw5o2u5Yy755Sf5Yqg54iG5qy+6L+95oqV77yb54Ot54K56YCJ6aKY5Yqg5Zub57u05YiG5p6Q44CCCi0g5pu05pep54mI5pys6KeBIFNraWxsSHViIOWPkeW4g+WOhuWPsuOAggoK5Y6fIFBybyDniYjlhajpg6jlip/og73lt7LlubblhaXmnKzlhY3otLnniYjjgILmlofmoYjor4rmlq3mlLnlhpnjgIHniIbmrL7mi4bop6PlpI3liLvjgIEzMCDlpKnpgInpopjlvJXmk47jgIHmlbDmja7ljLvnlJ/jgIHlj5HluIPliY3kvZPmo4DjgIHljrsgQUkg5ZGz5bel5L2c5Y+w44CB6K+E6K665Yy65byV5pOO44CB6LSm5Y+35L2T5qOA44CB5bCB6Z2i5paH5qGI44CB5LiA5rqQ5aSa5Y+R44CB5Lq66K6+5paH6aOO5YaZ5L2c5YiG6Lqr44CC6ZmEIDE3IOW8j+agh+mimOWFrOW8j+W6k+OAgea1gemHj+ivjeW6k+OAgeivhOiuuuWMuui/kOiQpeaJi+WGjOS4juWPkeW4luajgOafpea4heWNleOAggoKIyMg5paH5Lu257uT5p6ECgotIGBTS0lMTC5tZGAg4oCU4oCUIHNraWxsIOWumuS5ie+8iOWQq+WujOaVtOi9rOe7mOaPkOekuuivjemFjeaWuSAvIOW3peS9nOa1ge+8iQotIGBhZ2VudHMvb3BlbmFpLnlhbWxgIOKAlOKAlCBhZ2VudCDphY3nva4KLSBgaWNvbi5wbmdgIOKAlOKAlCBza2lsbCDlrprliLblm77moIcKCiMjIOS9v+eUqOaWueW8jwoK5bCG5pys5LuT5bqT5L2c5Li6IHNraWxsIOWMheS9v+eUqO+8muaKiiBgU0tJTEwubWRg44CBYGFnZW50cy9g44CBYGljb24ucG5nYCDmlL7lhaXkvaDnmoQgc2tpbGwg55uu5b2V5Y2z5Y+v44CC5Lmf5bey5ZCM5q2l5LiK5p62IFtza2lsbGh1Yi5jbl0oaHR0cHM6Ly9za2lsbGh1Yi5jbikg5LiOIE1vZGVsU2NvcGXvvIjprZTmkK3npL7ljLrvvInvvIzmkJwgYHhpYW9ob25nc2h1LXZpcmFsLWNvZGVgIOWNs+WPr+aJvuWIsOOAggoKIyMg5aOw5piOCgrnsonkuJ3oh6rliLbjgIHpnZ7llYbkuJrnlKjpgJTnmoQgcHJvbXB0IOW3peS9nOa1ge+8jOS7heeUqOS6juS4quS6uuWtpuS5oOS4jueglOeptu+8jOS4juebuOWFs+adg+WIqeaWueaXoOWFs+OAgui+k+WHuuWGheWuueivt+WLv+eUqOS6juWVhuS4muWUruWNluOAgeW5v+WRiuaIluaal+ekuuWumOaWueaOiOadg+eahOWcuuaZr+OAggoKIyMgTGljZW5zZQoKTUlUCg==
+# 小红书流量密码 (`xiaohongshu-viral-code`) v1.3.1
+
+> 小红书发了没流量？14 个工作流覆盖写→查→发→复盘→养号全链路，让每一篇都吃到流量红利，还保留你自己的风格。草稿进来，可发方案出去。
+
+## 更新日志
+
+- v1.3.1（2026-10-29）：正文新增 1000 字硬上限（含标点），超了先砍套话/重复论点/绕圈话、不动数字；发布前体检里超 1000 字的直接判修完再发。
+- v1.3.0（2026-10-22）：正文新增"为收藏而写"三动作（结论前置→中段给能拿走的东西→结尾告诉读者存下来干什么）；去 AI 味新增模拟读者试读验收，给人味分、定位残留模板味并给"可发/再改一轮"结论。
+- v1.2.0（2026-10-15）：新增 FAQ 答疑、完整诊断前后对照示例、目录导航；发布前体检加"断言验证台账"；模板化痕迹检查升级（新增"绕圈话"检测）；数据医生加爆款追投；热点选题加四维分析。
+- 更早版本见 SkillHub 发布历史。
+
+原 Pro 版全部功能已并入本免费版。文案诊断改写、爆款拆解复刻、30 天选题引擎、数据医生、发布前体检、去 AI 味工作台、评论区引擎、账号体检、封面文案、一源多发、人设文风写作分身。附 17 式标题公式库、流量词库、评论区运营手册与发帖检查清单。
+
+## 文件结构
+
+- `SKILL.md` —— skill 定义（含完整转绘提示词配方 / 工作流）
+- `agents/openai.yaml` —— agent 配置
+- `icon.png` —— skill 定制图标
+
+## 使用方式
+
+将本仓库作为 skill 包使用：把 `SKILL.md`、`agents/`、`icon.png` 放入你的 skill 目录即可。也已同步上架 [skillhub.cn](https://skillhub.cn) 与 ModelScope（魔搭社区），搜 `xiaohongshu-viral-code` 即可找到。
+
+## 声明
+
+粉丝自制、非商业用途的 prompt 工作流，仅用于个人学习与研究，与相关权利方无关。输出内容请勿用于商业售卖、广告或暗示官方授权的场景。
+
+## License
+
+MIT
